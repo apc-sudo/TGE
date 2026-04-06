@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
+.scroll-hide::-webkit-scrollbar {
+  display: none;
+}
+.video{
+  margin: 0 0 !important; 
+}
+.scroll-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 3px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #a1a1a1;
+}
+.gradient-box {
+  width: 200px;
+  height: 200px;
+ background: linear-gradient(
+  to right,
+  #B88BC7 0%,
+  #D86E7B 100%
+);
+}
