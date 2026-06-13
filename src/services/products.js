@@ -2,7 +2,7 @@ import { supabase, isSupabaseConfigured } from '../lib/supabaseClient.js';
 import { slugify } from '../utils/slugify.jsx';
 
 const table =
-  import.meta.env.VITE_SUPABASE_PRODUCTS_TABLE?.trim() || 'products';
+  import.meta.env.VITE_SUPABASE_PRODUCTS_TABLE?.trim() || 'tge_product';
 
 /**
  * Live Supabase `products` shape (your project):
