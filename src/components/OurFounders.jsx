@@ -18,17 +18,17 @@ const OurFounders = () => {
         {/* Founder Images with Hover Overlay */}
         <div className="flex flex-col md:flex-row items-center gap-10 mb-14">
           {/* Swati */}
-          <div className="relative group w-72 h-96 border-4 border-[#514747] overflow-hidden">
+          <div className="relative group w-72 h-[450px] border-4 border-[#514747] overflow-hidden">
             <img
               src={swati}
               alt="Swati"
-              className="w-full h-full object-cover object-right"
+              className="w-full h-full object-cover object-top"
             />
             <div className="absolute inset-0 bg-black bg-opacity-70 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-70 transition-opacity duration-300">
               <h3 className="text-3xl font-bold">Swati Piplani</h3>
               <p className="text-xl mb-2">Co-Founder</p>
               <div className='w-[96%] h-[2px] bg-[#FDF5E6] mb-2'></div>
-              <p className="text-xl mb-2">akki.ahuja2@gmail.com</p>
+              <p className="text-xl mb-2">swati.june100@gmail.com</p>
               <a
                 href='https://www.linkedin.com/in/akansha-ahuja-23272673/'
                 target="_blank"
@@ -41,7 +41,7 @@ const OurFounders = () => {
           </div>
 
           {/* Kamal */}
-          <div className="relative group w-72 h-96 border-4 border-[#514747] overflow-hidden">
+          <div className="relative group w-72 h-[450px] border-4 border-[#514747] overflow-hidden">
             <img
               src={kamal}
               alt="Kamal"

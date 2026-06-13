@@ -15,70 +15,70 @@ import TestimonialCards from './TestimonalCards';
 const TestimonalsPage = () => {
   const testimonials = [
     {
-      content: "This was my first time ordering handcrafted apparels from India and I couldn’t be happier with the experience. The quality and detailing were impressive, and you could tell the pieces were made with care. I had a few questions at the start but the team at The Glitter Export was helpful and responsive throughout. The headbands I ordered looked just as beautiful in person and added the perfect touch to our get-together. Would definitely recommend them to anyone looking for something unique and thoughtfully made.",
+      content: "As a boutique owner, my experience with THE GLITTER EXPORTS has been excellent. The jerseys, T-shirts, and sweatshirts were beautifully made with great attention to detail, premium-quality fabrics, and clean finishing.",
       image: client1,
-      name: "Ashley Loupe",
+      name: "Samantha",
       role: "Client",
     },
     {
-      content: "We were looking for something fun and coordinated for a casual outdoor event, and The Glitter Export absolutely delivered. The headbands were stylish, comfortable, and full of character. Each design had its own charm, and the embroidery was beautifully done. The ordering process was smooth and everything arrived right on time. It was a great experience from start to finish and added something special to our day.",
+      content: "Our ordering experience was seamless from beginning to end. Communication was easy, the delivery was right on schedule, and everything arrived safely and perfectly packed. It really added a special touch to our day.",
       image: client2,
-      name: "Brooke Hillman",
+      name: "Heather",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "I discovered this exporter through a friend and then checked out their Instagram and Alibaba pages. I was instantly impressed by their collection — the craftsmanship is beautiful, with detailed work, high-quality finishing, and a special character in each garment.",
       image: client3,
-      name: "Magnolia Paperie",
+      name: "Ashley",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "THE GLITTER EXPORTS is a reliable and detail-oriented exporter. Their free mockup service was very helpful, and the final apparel we received was perfectly finished and exactly as described. We’re very satisfied and look forward to placing more orders.",
       image: client4,
-      name: "Magnolia Paperie",
+      name: "Katherine",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "This was my first time ordering handcrafted apparels from India and I couldn’t be happier with the experience. The quality and detailing were impressive, and you could tell the pieces were made with care. I had a few questions at the start but the team at The Glitter Export was helpful and responsive throughout. Would definitely recommend them to anyone looking for something unique and thoughtfully made.",
       image: client5,
-      name: "Magnolia Paperie",
+      name: "Linda",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "Beautiful hand-worked apparel, super-soft and comfortable T-shirts (kid-friendly too!), and very budget-friendly. Exactly what we were looking for!",
       image: client6,
-      name: "Magnolia Paperie",
+      name: "Brittany",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "I ordered sequin T-shirts from India for the first time and absolutely loved them! The quality and detailing are amazing, and you can tell they were made with real care.",
       image: client7,
-      name: "Magnolia Paperie",
+      name: "Kimberly",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "Their free mockup service was extremely helpful, and the staff was very supportive and understanding. They showed us our products being stitched through video calls, and once we approved them, they shipped the final apparel. Fully satisfied with their service.",
       image: client8,
-      name: "Magnolia Paperie",
+      name: "Magnolia",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "The communication and service were excellent. They kept us updated at every stage and ensured everything was customized exactly as per our requirements.",
       image: client9,
-      name: "Magnolia Paperie",
+      name: "Hannah",
       role: "Client",
     },
     {
-      content: "I discovered The Glitter Export through a friend and instantly fell in love with their elegant style. The craftsmanship stood out right away, with intricate details, premium finish, and a clear sense of individuality in each piece. It felt like more than just buying accessories. Looking forward to adding more of their beautiful pieces to my collection.",
+      content: "Very reliable and customer-focused company. They listened carefully to our needs and delivered high-quality apparel with perfect customization",
       image: client10,
-      name: "Magnolia Paperie",
+      name: "Holly",
       role: "Client",
     }
   ];
 
   return (
     <div
-      className="px-2 mt-24 overflow-x-hidden bg-cover bg-center bg-[#d6c2aa]"
+      className="px-2 mt-24 overflow-x-hidden bg-cover bg-center bg-[#EDE8D0]"
     >
       <div className="relative z-10 flex flex-col items-center px-4 py-5 lg:px-20">
         {/* Heading */}

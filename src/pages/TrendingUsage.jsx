@@ -130,14 +130,14 @@ const TrendingUsage = () => {
 
   if (loading) {
     return (
-      <div className="relative w-full min-h-screen flex items-center justify-center bg-[#d6c2aa] pt-24">
+      <div className="relative w-full min-h-screen flex items-center justify-center bg-[#EDE8D0] pt-24">
         <Loader />
       </div>
     );
   }
 
   return (
-    <div className="relative w-full min-h-screen overflow-hidden pb-16 bg-[#d6c2aa]">
+    <div className="relative w-full min-h-screen overflow-hidden pb-16 bg-[#EDE8D0]">
 
       {/* Content */}
       <div className="relative z-10">

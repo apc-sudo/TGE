@@ -84,7 +84,7 @@ const Infrastructure = () => {
             </div>
           </div>
         </div>
-        <div className="bg-[#d6c2aa]">
+        <div className="bg-[#EDE8D0]">
           <PhotoGallery />
         </div>
       </div>

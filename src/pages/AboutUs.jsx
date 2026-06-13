@@ -29,7 +29,7 @@ const AboutUs = () => {
         <img
           src={group}
           alt="Group of Employees"
-          className="w-full h-[350px] md:h-full shadow-lg"
+          className="w-full h-[350px] md:h-[1000px] object-cover object-top shadow-lg"
         />
         <div className='inset-0 bg-black/50 absolute '>
           <div className="absolute bottom-4 md:bottom-32 left-4 md:left-32 w-full text-left">
@@ -58,11 +58,11 @@ const AboutUs = () => {
               <img
                 src={swatiImg}
                 alt="swatipiplani"
-                className="w-[600px] h-[550px] object-cover object-center"
+                className="w-[600px] h-[750px] object-cover object-center"
               />
               {/* Overlay */}
               <div className="absolute bottom-4 left-1/2 -translate-x-1/2 transform flex ">
-                <div className="bg-[#d6c2aa] text-black p-4 shadow-md w-36 text-center">
+                <div className="bg-[#EDE8D0] text-black p-4 shadow-md w-36 text-center">
                   <p className="text-3xl font-bold">1K+</p>
                   <p className="text-l text-center">projects succeeded</p>
                 </div>
@@ -112,7 +112,7 @@ const AboutUs = () => {
             />
             <div className="absolute bottom-4  flex left-1/2 transform -translate-x-1/2 ">
               {/* Box 1 - Red */}
-              <div className="bg-[#d6c2aa] text-black p-4 text-center shadow-md w-36">
+              <div className="bg-[#EDE8D0] text-black p-4 text-center shadow-md w-36">
                 <p className="text-3xl text-center font-bold">1K+</p>
                 <p className="text-l text-center">projects succeeded</p>
               </div>
@@ -131,7 +131,7 @@ const AboutUs = () => {
         {/* Video Section */}
         {/* Our Story Section */}
         {/* Our Story Section */}
-        <div className="mt-20 px-4 pt-10 sm:px-8 bg-[#d6c2aa]">
+        <div className="mt-20 px-4 pt-10 sm:px-8 bg-[#EDE8D0]">
           <h3 className="text-4xl md:text-6xl font-semibold text-center font-['Dancing_Script',cursive] text-[#514747] mb-2">
             <span className="font-['Inter']">Our </span> Story
           </h3>
@@ -170,15 +170,15 @@ const AboutUs = () => {
               className="w-full md:w-1/2 bg-white shadow-xl p-4 md:p-6 h-auto md:h-[600px] overflow-y-auto"
             >
               <p className="font-[Inter] text-[#514747] text-sm md:text-base leading-relaxed">
-                Our journey to becoming India's top-rated and trending apparels manufacturer and exporter began in 2016, when our co-founder and creative director <strong>Akansha Piplani</strong> completed her post-graduation in fashion design. Early work with international fashion labels revealed an essential truth: a great design deserves a great manufacturer.<br /><br />
+                <strong>The Glitter Exports</strong>, founded in 2024, is a women-led apparel export house that has grown from a humble beginning with a single sewing machine into a modern manufacturing setup with 40+ machines, now exporting to 30+ countries worldwide.<br /><br />
 
-                This insight led her to start a small-batch setup called <strong>The Glitter Export®</strong> in 2018, with one mission: to honour every design through super-specialized production. The guiding principle was simple—whatever we make must be extraordinary.<br /><br />
+                At <strong>The Glitter Exports</strong>, we specialize in crafting apparel that reflects the rich heritage of Indian handicrafts, combining traditional artistry with modern manufacturing excellence. Our dedication to quality, innovation, and customer satisfaction has established us as a trusted partner in the global apparel industry.<br /><br />
 
-                Building on this strong foundation, <strong>The Glitter Export</strong> emerged as a brand for handcrafted fashion accessories. Born out of passion and bolstered by family support, the brand secured its first international order within just three months of starting its business.<br /><br />
+                We are committed to delivering products of the highest quality, following international standards and industry best practices at every stage of production. With an integrated manufacturing approach, we oversee the entire process—from spinning and fabric development to the finished garment.<br /><br />
 
-                <strong>The Glitter Export®</strong> is a process-oriented, highly quality-conscious apparels manufacturer with great understanding of design technicality, colour code, cut & finish, tailoring, fabric selection and its relevance to your design and brand, printing techniques and outstanding hand-works which are essential for effective work on your custom design.<br /><br />
+                Our advanced manufacturing capabilities include state-of-the-art mills producing both woven and knitted fabrics, using premium cotton fibers and carefully sourced materials from reputable suppliers. This enables us to maintain exceptional speed, consistency, quality, and responsible production practices.<br /><br />
 
-                We have dedicated ourselves to providing state-of-the-art, technology-equipped production factories in 3 rural areas to meet the fast-changing fashion industry line in accessories, with a capacity of producing more than <strong>50,000+ apparels monthly</strong>. Be it headbands, clutches, tote bags, bag straps, earrings, or any other product—we possess great know-how to surprise with our exquisite workmanship at the most affordable price in all lines of accessories!
+                Driven by vertical integration, strong ethical values, and a commitment to sustainability, <strong>The Glitter Exports</strong> continues to position itself as a preferred global apparel manufacturing partner, delivering custom-made solutions that meet the evolving needs of international markets.
               </p>
             </div>
           </div>

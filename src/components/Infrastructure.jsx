@@ -41,7 +41,7 @@ const Infrastructure = () => {
           <div
             className="rounded-full px-6 py-8 text-center w-[400px] h-[400px] flex flex-col items-center justify-center gap-4"
             style={{
-              background: '#d6c2aa',
+              background: '#EDE8D0',
               clipPath: 'circle(50% at center)',
               overflow: 'hidden'
             }}

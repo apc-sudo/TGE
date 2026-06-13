@@ -53,7 +53,7 @@ const Home = () => {
             style={{ filter: 'bleftness(0.7)' }}
           >
             <source
-              src="https://apc-assets-2025.s3.ap-northeast-1.amazonaws.com/apc_videos/AP+CURATED+COUTURE.mp4"
+              src="https://gte-media-assets.s3.eu-north-1.amazonaws.com/TGE+website+video.mp4"
               type="video/mp4"
             />
             Your browser does not support the video tag.
@@ -62,7 +62,7 @@ const Home = () => {
 
         {/* Text Content Overlay */}
         <div className="absolute inset-0 flex flex-col items-start justify-center px-4 space-y-4 pt-20 z-10 lg:pl-20">
-          <div className="flex flex-col items-start bg-[#d6c2aa] opacity-80 backdrop-blur-sm p-6 rounded-lg text-black" style={{ zoom: '1', transform: 'scale(1)', transformOrigin: 'top left' }}>
+          <div className="flex flex-col items-start bg-[#EDE8D0] opacity-80 backdrop-blur-sm p-6 rounded-lg text-black" style={{ zoom: '1', transform: 'scale(1)', transformOrigin: 'top left' }}>
             <motion.h1
               className="font-[Inter] text-2xl sm:text-4xl lg:text-7xl font-bold text-left"
               initial={{ opacity: 0, y: 20 }}

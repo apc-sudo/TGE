@@ -9,7 +9,7 @@ const Trending = () => {
 
   return (
     <div
-      className="bg-cover bg-center py-20 px-4 sm:px-8 bg-[#d6c2aa]"
+      className="bg-cover bg-center py-20 px-4 sm:px-8 bg-[#EDE8D0]"
     >
       {/* Heading */}
       <div className="text-center mb-16">
@@ -26,23 +26,23 @@ const Trending = () => {
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
         {/* Card 1 */}
         <div className="bg-white shadow-lg hover:shadow-xl transition-transform transform hover:-translate-y-1 duration-300 p-6 text-center font-[Inter] rounded-xl">
-          <img src={trending1} alt="Clutches" className="mx-auto mb-6 w-full h-80 object-cover" />
-          <h3 className="text-2xl font-semibold text-[#514747]">Clutches & Tote Bags</h3>
-          <p className="text-[#514747] text-md mt-3">Timeless styles designed to carry every moment beautifully</p>
+          <img src={trending1} alt="Beaded Swimwear" className="mx-auto mb-6 w-full h-80 object-cover" />
+          <h3 className="text-2xl font-semibold text-[#514747]">Beaded Swimwear</h3>
+          <p className="text-[#514747] text-md mt-3">Fashion-forward Beaded swimwear that are stylish and elegant</p>
         </div>
 
         {/* Card 2 */}
         <div className="bg-white shadow-lg hover:shadow-xl transition-transform transform hover:-translate-y-1 duration-300 p-6 text-center font-[Inter] rounded-xl">
-          <img src={trending2} alt="Accessories" className="mx-auto mb-6 w-full h-80 object-cover" />
-          <h3 className="text-2xl font-semibold text-[#514747]">Beaded Scrunchies</h3>
-          <p className="text-[#514747] text-md mt-3">Fashion-forward scrunchies for everyday wear that are stylish durable and gentle on hair</p>
+          <img src={trending2} alt="Summer Collection" className="mx-auto mb-6 w-full h-80 object-cover" />
+          <h3 className="text-2xl font-semibold text-[#514747]">Summer Collection</h3>
+          <p className="text-[#514747] text-md mt-3">Timeless styles designed to carry every moment beautifully</p>
         </div>
 
         {/* Card 3 */}
         <div className="bg-white shadow-lg hover:shadow-xl transition-transform transform hover:-translate-y-1 duration-300 p-6 text-center font-[Inter] rounded-xl">
-          <img src={trending3} alt="Headbands" className="mx-auto mb-6 w-full h-80 object-cover" />
-          <h3 className="text-2xl font-semibold text-[#514747]">Beaded Headbands</h3>
-          <p className="text-[#514747] text-md mt-3">Handcrafted headbands with intricate beadwork for elegant styling.</p>
+          <img src={trending3} alt="Abayas And kaftans" className="mx-auto mb-6 w-full h-80 object-cover" />
+          <h3 className="text-2xl font-semibold text-[#514747]">Abayas And kaftans</h3>
+          <p className="text-[#514747] text-md mt-3">Designed with intricate bead work for elegant styling</p>
         </div>
       </div>
 

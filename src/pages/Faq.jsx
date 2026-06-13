@@ -14,7 +14,7 @@ const faqs = [
       },
       {
         question: 'Are you a manufacturer or trader?',
-        answer: 'We are <b>manufacturers</b> of <b>beaded fashion accessories</b> including: Headbands, Coin Purses, Clutches, Earrings, Neck Beaded Scarves, Bag/Guitar Straps, and more. <a href="/products">View more</a>.'
+        answer: 'We manufacture a wide range of fashion apparel, including T-shirts, sweatshirts, skort sets, dresses, denim wear, Jeans, pajama, shorts, crop top, shirts, beaded swimwear, two-piece short sets, abayas, kaftans, and more. Explore our collection to view more.'
       },
     ]
   },
@@ -23,7 +23,7 @@ const faqs = [
     qas: [
       {
         question: 'What products and services do you offer?',
-        answer: 'We offer a wide range of handcrafted items: Beaded Embroidery Headbands, Beaded Handbags & Evening Clutches, Earrings, Tote bags, Wreath sash, Alligator Bows, Coin Purses, Beaded Bag/Guitar Straps, Scrunchies, Mobile purses. <a href="/products">View more</a>. We are customer centric company, we can offer services as per customer requirements. <br/><b>General services:</b><ol><li>Pattern Development and Grading</li><li>Prototype/Sample Development</li><li>Fabric Printing (screen, digital, etc.)</li><li>Fine Embroidery concepts for clothing range</li><li>Special finishes on fabrics</li><li>Customized Tags, Labels, colors, fabrics, sizes etc.</li><li>Shipping of the goods to your door step (Air or sea as per client requirement)</li></ol>'
+        answer: 'We offer a wide range of handcrafted fashion apparel, including sequin and beaded embroidery T-shirts, sweatshirts, skort sets, beaded swimwear, two-piece short sets, abayas, kaftans, dresses, jeans, pajamas, denim jackets & shorts, and crop tops. Explore more from our collection.<br/><br/>As a customer-centric company, we provide customized services tailored to meet our clients’ requirements.<br/><b>General Services:</b><ol><li>Pattern Development and Grading</li><li>Prototype/Sample Development</li><li>Fabric Printing (screen, digital, etc.)</li><li>Fine Embroidery concepts for clothing range</li><li>Special finishes on fabrics</li><li>Customized Tags, Labels, colors, fabrics, sizes etc.</li><li>Shipping of the goods to your door step (Air or sea as per client requirement)</li></ol>'
       },
       {
         question: 'Are your products handmade?',
@@ -44,7 +44,7 @@ const faqs = [
       },
       {
         question: 'What are your MOQs (Minimum Order Quantities)? Can I get a sample before placing an order?',
-        answer: "Our Minimum Order Quantities (MOQs) vary depending on the product type, design complexity, and customization requirements. Yes, we do provide samples. Once you've selected the products you're interested in, our sales representative will assist you with the sample request process. For detailed information, please contact us with your specific needs. WhatsApp: +91 9999431114, apcuratedcouture@gmail.com."
+        answer: "Our Minimum Order Quantities (MOQs) vary depending on the product type, design complexity, and customization requirements. Yes, we do provide samples. Once you've selected the products you're interested in, our sales representative will assist you with the sample request process. For detailed information, please contact us with your specific needs. WhatsApp: +917303083972, theglitterexports@gmail.com."
       },
     ]
   },
@@ -104,7 +104,7 @@ const faqs = [
     qas: [
       {
         question: 'How can I contact customer support?',
-        answer: 'You can reach us through:<ul><li>WhatsApp: +91 9999431114</li><li>Instagram: <a href="https://instagram.com/apcuratedcouture" target="_blank">@apcuratedcouture</a></li><li>Alibaba - <a href="https://apcuratedcouture.trustpass.alibaba.com/" target="_blank">apcuratedcouture.trustpass.alibaba.com</a></li></ul>Our team typically responds within 24 hours.'
+        answer: 'You can reach us through:<ul><li>WhatsApp: +917303083972</li><li>Mail: theglitterexports@gmail.com</li><li>Instagram: <a href="https://instagram.com/theglitter_exports" target="_blank">@theglitter_exports</a></li><li>Alibaba: <a href="https://theglitterexports.trustpass.alibaba.com" target="_blank">theglitterexports.trustpass.alibaba.com</a></li></ul>Our team typically responds within 24 hours.'
       },
       {
         question: 'Do you offer returns or exchanges?',
@@ -137,7 +137,7 @@ const faqs = [
       },
       {
         question: 'Can I visit your factory?',
-        answer: 'You are always welcome! You can call us at (+91 9999431114) or Email us apcuratedcouture@gmail.com and schedule a meeting ensuring that our concern persons are available to attend you and we can have a productive meeting at our facility. We also request you to share few details about your requirement in advance so that we can study the same and discuss the same in detail with you during our meeting.'
+        answer: 'You are always welcome! You can call us at (+917303083972) or Email us theglitterexports@gmail.com and schedule a meeting ensuring that our concern persons are available to attend you and we can have a productive meeting at our facility. We also request you to share few details about your requirement in advance so that we can study the same and discuss the same in detail with you during our meeting.'
       },
     ]
   },

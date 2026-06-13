@@ -74,7 +74,9 @@ const Footer = () => {
             Welcome to The Glitter Export – Your Global Source for Beaded Elegance!
           </h2>
           <p className="text-lg md:text-xl text-[#ffffff] mb-4 leading-relaxed">
-            We are a fast-growing fashion apparels export brand specializing in handcrafted beaded creations. From stunning tote bags and clutches to statement women's apparels and seasonals must-have; every piece is designed with artistry and crafted with care.
+
+            We are a fast-growing fashion apparel export brand specializing in handcrafted sequin and beaded creations. From stylish T-shirts and sweatshirts to statement women’s apparel and seasonal must-haves, every piece is thoughtfully designed with creativity and crafted with precision.
+
           </p>
           <div className="text-2xl font-semibold text-[#ffffff] font-['Dancing_Script',cursive]">
             ✨ Wholesale Only | Made to Impress | Crafted to Last

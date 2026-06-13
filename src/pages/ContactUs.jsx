@@ -68,13 +68,13 @@ const ContactUs = () => {
     {
       icon: <FaPhone className="text-2xl" />,
       title: "Phone",
-      details: ["+91 (555) 123-4567", "+91 (555) 987-6543"],
+      details: ["+91 7447425421", "+91 7303083972"],
       color: "bg-blue-500"
     },
     {
       icon: <FaEnvelope className="text-2xl" />,
       title: "Email",
-      details: ["info@apcurated.com", "support@apcurated.com"],
+      details: ["theglitterexports@gmail.com", "swati.june100@gmail.com"],
       color: "bg-green-500"
     },
     {
@@ -86,7 +86,7 @@ const ContactUs = () => {
     {
       icon: <FaClock className="text-2xl" />,
       title: "Business Hours",
-      details: ["Mon - Fri: 9:00 AM - 6:00 PM", "Sat: 10:00 AM - 4:00 PM", "Sun: Closed"],
+      details: ["Mon to Sat: 10:00 AM to 7:00 PM", "Sunday closed"],
       color: "bg-purple-500"
     }
   ];
@@ -133,7 +133,7 @@ const ContactUs = () => {
 
       {/* Header Section */}
       <div
-        className="overflow-x-hidden bg-no-repeat bg-cover bg-fixed bg-[#d6c2aa]"
+        className="overflow-x-hidden bg-no-repeat bg-cover bg-fixed bg-[#EDE8D0]"
       >
         <div className="text-center mb-12">
           <h2 className="text-6xl font-semibold font-[Inter] mt-20 text-[#514747]">

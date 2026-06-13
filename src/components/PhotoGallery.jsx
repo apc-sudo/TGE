@@ -18,7 +18,7 @@ const PhotoGallery = () => {
 
   return (
     <>
-      <div className="px-4 py-12 bg-[#d6c2aa] max-w-screen-xl mx-auto">
+      <div className="px-4 py-12 bg-[#EDE8D0] max-w-screen-xl mx-auto">
         <h2 className="text-6xl font-semibold text-center mb-8 font-['Inter'] text-[#514747]">Infrastructure of <span className="font-['Dancing_Script',cursive]">The Glitter Export</span></h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {galleryImages.map((img, index) => (

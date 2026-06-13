@@ -23,7 +23,7 @@ const Ethical = () => {
           {/* Left Text Section */}
           <div className="flex-1">
             <h3 className="text-5xl md:text-5xl lg:text-6xl font-[Inter] font-semibold text-[#8B7355] mb-4">
-              An Ethical <span className="font-['Dancing_Script',cursive]">overseas accessories</span> manufacturer.
+              An Ethical <span className="font-['Dancing_Script',cursive]">overseas apparels</span> manufacturer.
             </h3>
             <p className="font-[Inter] text-xl text-[#514747] leading-relaxed mb-3">
               At <strong>The Glitter Export</strong>, we believe apparels should feel good —
